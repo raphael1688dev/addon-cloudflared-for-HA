@@ -1,5 +1,6 @@
 {
-  "name": "Home Assistant Add-on: Cloudfared for HA (FORKED)",
+  "name": "Home Assistant Add-on: Cloudfared for HA",
   "url": "https://github.com/raphael1688dev/addon-cloudflared-for-HA",
   "maintainer": "Tobias Brenner"
+  "Forked From": "v5.1.15"
 }
